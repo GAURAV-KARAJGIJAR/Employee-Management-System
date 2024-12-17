@@ -1,0 +1,1 @@
+Using Java, Spring Boot, Hibernate, HTML, CSS, Bootstrap, and MySQL. The system allows adding, editing, and deleting employee records. Enhanced operational efficiency and data management for a mid-sized company.
